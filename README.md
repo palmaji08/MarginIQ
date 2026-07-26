@@ -82,7 +82,7 @@ RetailTurnaround/
 │   ├── 02_load_data.sql       # bulk load the cleaned CSVs
 │   └── 03_views.sql           # the two business-logic views
 ├── powerbi/
-│   └── RetailTurnaround.pbix  # the dashboard
+│   └── MarginIQ.pbix          # the dashboard
 ├── design/
 │   └── RetailTurnaround_Pastel_Theme.json  # custom Power BI theme
 ├── images/          # dashboard screenshots
@@ -100,7 +100,7 @@ RetailTurnaround/
    sqlcmd -S .\SQLEXPRESS -E -C -i sql/02_load_data.sql
    sqlcmd -S .\SQLEXPRESS -E -C -i sql/03_views.sql
    ```
-3. **Power BI** — open `powerbi/RetailTurnaround.pbix`, point it at your SQL Server, refresh.
+3. **Power BI** — open `powerbi/MarginIQ.pbix`, point it at your SQL Server, refresh.
    (Theme: **View → Themes → Browse** → `design/RetailTurnaround_Pastel_Theme.json`.)
 
 ## 🛠️ Tech stack
