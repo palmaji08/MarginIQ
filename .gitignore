@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Power BI temp / autosave / recovery
+*.tmp
+~$*.pbix
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Note: data/ and the .pbix ARE committed on purpose so the project is reproducible.
+# If a file exceeds GitHub's 100 MB limit, use Git LFS instead of ignoring it.

@@ -1,0 +1,49 @@
+{
+  "name": "Retail Dashboard Executive",
+  "dataColors": [
+    "#5DADE2",
+    "#27AE60",
+    "#E74C3C",
+    "#1F3A5F",
+    "#85C1E9",
+    "#2E86C1"
+  ],
+  "background": "#F4F6F8",
+  "foreground": "#2C3E50",
+  "tableAccent": "#1F3A5F",
+  "good": "#27AE60",
+  "neutral": "#85C1E9",
+  "bad": "#E74C3C",
+  "maximum": "#27AE60",
+  "center": "#F4F6F8",
+  "minimum": "#E74C3C",
+  "textClasses": {
+    "callout":  { "fontFace": "Segoe UI", "fontSize": 26, "color": "#1F3A5F" },
+    "title":    { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1F3A5F" },
+    "header":   { "fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#1F3A5F" },
+    "label":    { "fontFace": "Segoe UI", "fontSize": 10, "color": "#2C3E50" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border":     [{ "show": true, "color": { "solid": { "color": "#E0E0E0" } }, "radius": 12 }],
+        "visualHeader": [{ "show": false }],
+        "title": [{
+          "show": true,
+          "fontColor": { "solid": { "color": "#1F3A5F" } },
+          "background": { "solid": { "color": "#FFFFFF" } },
+          "alignment": "left",
+          "titleWrap": true
+        }],
+        "spacing": [{ "customizeSpacing": true, "spaceBelowTitle": 6 }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F4F6F8" } }, "transparency": 0 }],
+        "outspace":   [{ "color": { "solid": { "color": "#F4F6F8" } }, "transparency": 0 }]
+      }
+    }
+  }
+}

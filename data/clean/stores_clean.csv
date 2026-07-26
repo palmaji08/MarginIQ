@@ -1,0 +1,121 @@
+Store_ID,Store_Name,City,Region,Store_Type,Opening_Date,Manager_Name,Monthly_Rent,Employees,Floor_Area_sqft
+1,CHA-001,Chandigarh,North,Mall,2023-04-26,Manager_001,192097,43,4857
+2,BEN-002,Bengaluru,South,Neighborhood,2022-08-03,Manager_002,320000,66,1720
+3,DEL-003,Delhi,North,Flagship,2017-08-10,Manager_003,350000,15,10395
+4,HYD-004,Hyderabad,South,Neighborhood,2022-11-12,Manager_004,229974,40,8559
+5,IND-005,Indore,Central,Mall,2024-09-30,Manager_005,121703,32,8124
+6,PUN-006,Pune,West,Mall,2017-05-31,Manager_006,208236,25,2719
+7,AHM-007,Ahmedabad,West,Flagship,2024-07-03,Manager_007,210165,45,1911
+8,KOC-008,Kochi,South,High Street,2016-05-26,Manager_008,219230,22,10244
+9,CHE-009,Chennai,South,Neighborhood,2021-12-08,Manager_009,214800,85,4350
+10,KOC-010,Kochi,South,Flagship,2022-06-01,Manager_010,179742,49,2507
+11,SUR-011,Surat,West,Mall,2016-02-18,Manager_011,219647,47,8628
+12,CHA-012,Chandigarh,North,Neighborhood,2016-10-28,Manager_012,217040,57,4632
+13,CHA-013,Chandigarh,North,Mall,2022-08-31,Manager_013,138717,33,9951
+14,KOC-014,Kochi,South,Mall,2020-03-08,Manager_014,219471,46,11685
+15,KOC-015,Kochi,South,Neighborhood,2022-09-05,Manager_015,205008,19,4952
+16,SUR-016,Surat,West,Flagship,2018-07-16,Manager_016,225162,46,2284
+17,HYD-017,Hyderabad,South,Outlet,2021-05-12,Manager_017,202490,39,11938
+18,JAI-018,Jaipur,North,High Street,2022-03-18,Manager_018,240285,30,5539
+19,BEN-019,Bengaluru,South,Mall,2021-04-18,Manager_019,320000,66,10760
+20,AHM-020,Ahmedabad,West,High Street,2016-07-20,Manager_020,253569,75,2689
+21,BHU-021,Bhubaneswar,East,Flagship,2016-03-25,Manager_021,160066,32,8116
+22,IND-022,Indore,Central,Flagship,2019-04-13,Manager_022,242696,79,5319
+23,LUC-023,Lucknow,North,Outlet,2015-02-17,Manager_023,150029,80,5571
+24,BHU-024,Bhubaneswar,East,Neighborhood,2016-04-01,Manager_024,196939,67,3791
+25,JAI-025,Jaipur,North,Flagship,2023-02-05,Manager_025,189045,76,4127
+26,LUC-026,Lucknow,North,Outlet,2024-10-05,Manager_026,198235,76,11177
+27,HYD-027,Hyderabad,South,Mall,2023-07-21,Manager_027,162349,81,9889
+28,NAG-028,Nagpur,Central,Flagship,2018-08-20,Manager_028,248085,14,3032
+29,NAG-029,Nagpur,Central,High Street,2024-04-29,Manager_029,200612,42,2149
+30,HYD-030,Hyderabad,South,Outlet,2015-11-19,Manager_030,142453,74,2333
+31,BHU-031,Bhubaneswar,East,High Street,2016-05-30,Manager_031,153657,72,10207
+32,BEN-032,Bengaluru,South,Mall,2024-10-13,Manager_032,320000,39,10035
+33,BHU-033,Bhubaneswar,East,Neighborhood,2017-04-03,Manager_033,201714,63,11847
+34,PUN-034,Pune,West,High Street,2020-10-20,Manager_034,238354,27,5261
+35,HYD-035,Hyderabad,South,Flagship,2015-03-28,Manager_035,180323,40,1317
+36,MUM-036,Mumbai,West,Neighborhood,2015-08-30,Manager_036,400000,20,1714
+37,SUR-037,Surat,West,High Street,2020-10-06,Manager_037,182391,47,9153
+38,HYD-038,Hyderabad,South,High Street,2023-02-10,Manager_038,243907,43,8949
+39,BHU-039,Bhubaneswar,East,High Street,2016-01-22,Manager_039,145409,67,7004
+40,AHM-040,Ahmedabad,West,High Street,2024-09-08,Manager_040,134200,24,2193
+41,AHM-041,Ahmedabad,West,Neighborhood,2023-12-24,Manager_041,148644,43,4339
+42,HYD-042,Hyderabad,South,High Street,2016-07-28,Manager_042,230593,35,5763
+43,JAI-043,Jaipur,North,Mall,2015-11-05,Manager_043,236164,82,2804
+44,DEL-044,Delhi,North,Neighborhood,2021-01-23,Manager_044,350000,23,5072
+45,BEN-045,Bengaluru,South,High Street,2020-05-25,Manager_045,320000,63,2160
+46,BEN-046,Bengaluru,South,High Street,2019-05-19,Manager_046,320000,70,5873
+47,AHM-047,Ahmedabad,West,Neighborhood,2023-03-12,Manager_047,247577,31,4311
+48,CHE-048,Chennai,South,Mall,2015-08-28,Manager_048,135979,52,2136
+49,DEL-049,Delhi,North,Neighborhood,2020-08-21,Manager_049,350000,32,2131
+50,LUC-050,Lucknow,North,Flagship,2017-01-31,Manager_050,137962,20,5053
+51,AHM-051,Ahmedabad,West,Mall,2024-12-25,Manager_051,184543,17,11347
+52,MUM-052,Mumbai,West,High Street,2021-07-18,Manager_052,400000,52,5472
+53,HYD-053,Hyderabad,South,Neighborhood,2018-07-10,Manager_053,182570,45,7684
+54,BEN-054,Bengaluru,South,Neighborhood,2018-05-13,Manager_054,320000,52,2388
+55,DEL-055,Delhi,North,High Street,2021-04-25,Manager_055,350000,21,10008
+56,HYD-056,Hyderabad,South,High Street,2016-06-26,Manager_056,211490,20,5202
+57,PUN-057,Pune,West,Mall,2019-11-30,Manager_057,199303,79,1328
+58,CHA-058,Chandigarh,North,Neighborhood,2018-05-11,Manager_058,147154,29,5533
+59,MUM-059,Mumbai,West,Outlet,2023-04-29,Manager_059,400000,46,5816
+60,IND-060,Indore,Central,Mall,2018-11-05,Manager_060,173371,45,9480
+61,JAI-061,Jaipur,North,Mall,2024-06-27,Manager_061,133316,23,11592
+62,AHM-062,Ahmedabad,West,Neighborhood,2015-06-30,Manager_062,120929,54,3343
+63,CHA-063,Chandigarh,North,Outlet,2016-10-23,Manager_063,235824,82,8207
+64,LUC-064,Lucknow,North,Flagship,2015-11-05,Manager_064,159073,81,1790
+65,SUR-065,Surat,West,High Street,2021-03-13,Manager_065,158821,67,3288
+66,DEL-066,Delhi,North,High Street,2023-12-05,Manager_066,350000,57,4641
+67,CHA-067,Chandigarh,North,Mall,2016-02-26,Manager_067,212714,83,7858
+68,IND-068,Indore,Central,Neighborhood,2017-08-27,Manager_068,162598,34,7955
+69,DEL-069,Delhi,North,Mall,2018-09-22,Manager_069,350000,43,5571
+70,BEN-070,Bengaluru,South,Neighborhood,2016-03-18,Manager_070,320000,16,8911
+71,HYD-071,Hyderabad,South,Mall,2020-02-29,Manager_071,211660,51,4928
+72,HYD-072,Hyderabad,South,Flagship,2017-03-02,Manager_072,224455,54,5764
+73,SUR-073,Surat,West,Flagship,2023-09-03,Manager_073,193170,56,11710
+74,LUC-074,Lucknow,North,High Street,2024-06-17,Manager_074,206808,15,3089
+75,NAG-075,Nagpur,Central,Outlet,2017-01-01,Manager_075,189590,16,2976
+76,IND-076,Indore,Central,High Street,2023-03-04,Manager_076,202228,67,11132
+77,LUC-077,Lucknow,North,Mall,2021-06-19,Manager_077,169828,44,1927
+78,KOC-078,Kochi,South,High Street,2020-10-30,Manager_078,171651,58,8266
+79,MUM-079,Mumbai,West,Outlet,2018-09-14,Manager_079,400000,27,6120
+80,LUC-080,Lucknow,North,High Street,2019-07-31,Manager_080,205506,63,6044
+81,LUC-081,Lucknow,North,Mall,2019-09-19,Manager_081,219390,34,11284
+82,IND-082,Indore,Central,High Street,2021-02-22,Manager_082,120106,50,5900
+83,HYD-083,Hyderabad,South,High Street,2021-07-03,Manager_083,204475,71,8438
+84,JAI-084,Jaipur,North,Neighborhood,2020-09-24,Manager_084,244042,33,11994
+85,MUM-085,Mumbai,West,Mall,2022-06-12,Manager_085,400000,23,5048
+86,CHA-086,Chandigarh,North,High Street,2024-01-17,Manager_086,172200,30,1600
+87,DEL-087,Delhi,North,Mall,2020-04-30,Manager_087,350000,70,7990
+88,NAG-088,Nagpur,Central,Neighborhood,2017-03-07,Manager_088,220657,75,7747
+89,HYD-089,Hyderabad,South,Mall,2022-09-17,Manager_089,121453,25,8165
+90,HYD-090,Hyderabad,South,Mall,2022-10-21,Manager_090,255779,71,2022
+91,LUC-091,Lucknow,North,Mall,2024-07-06,Manager_091,151813,70,3384
+92,BHU-092,Bhubaneswar,East,High Street,2020-12-15,Manager_092,203177,68,11237
+93,SUR-093,Surat,West,Neighborhood,2020-08-29,Manager_093,231867,82,8505
+94,NAG-094,Nagpur,Central,Mall,2024-08-29,Manager_094,244433,69,5446
+95,BHU-095,Bhubaneswar,East,Mall,2022-02-24,Manager_095,192695,78,9139
+96,CHA-096,Chandigarh,North,Mall,2019-12-07,Manager_096,140311,48,5041
+97,CHE-097,Chennai,South,High Street,2021-01-21,Manager_097,141122,29,3671
+98,HYD-098,Hyderabad,South,High Street,2016-09-17,Manager_098,176086,20,7997
+99,AHM-099,Ahmedabad,West,High Street,2020-03-23,Manager_099,228992,19,4588
+100,SUR-100,Surat,West,High Street,2023-08-20,Manager_100,125120,85,7432
+101,JAI-101,Jaipur,North,Flagship,2018-12-11,Manager_101,198279,61,8065
+102,LUC-102,Lucknow,North,Neighborhood,2021-02-14,Manager_102,177812,74,4795
+103,CHE-103,Chennai,South,High Street,2015-04-29,Manager_103,221936,55,7824
+104,KOC-104,Kochi,South,Mall,2020-03-29,Manager_104,153456,80,1641
+105,NAG-105,Nagpur,Central,High Street,2021-04-30,Manager_105,127104,22,11730
+106,AHM-106,Ahmedabad,West,Mall,2020-03-06,Manager_106,167639,18,5462
+107,AHM-107,Ahmedabad,West,High Street,2020-02-06,Manager_107,205680,55,7411
+108,CHE-108,Chennai,South,Neighborhood,2024-04-30,Manager_108,230510,44,2541
+109,JAI-109,Jaipur,North,Flagship,2021-01-18,Manager_109,133653,56,4873
+110,CHA-110,Chandigarh,North,Flagship,2022-04-23,Manager_110,130553,15,5251
+111,HYD-111,Hyderabad,South,Neighborhood,2021-12-19,Manager_111,159946,42,3268
+112,JAI-112,Jaipur,North,Neighborhood,2021-04-29,Manager_112,177138,71,5398
+113,BHU-113,Bhubaneswar,East,High Street,2021-10-17,Manager_113,150024,32,6296
+114,MUM-114,Mumbai,West,Neighborhood,2018-07-01,Manager_114,400000,62,4449
+115,MUM-115,Mumbai,West,Neighborhood,2024-04-25,Manager_115,400000,25,6141
+116,SUR-116,Surat,West,Neighborhood,2024-01-13,Manager_116,151733,84,1872
+117,PUN-117,Pune,West,High Street,2022-06-02,Manager_117,217142,20,9489
+118,CHA-118,Chandigarh,North,High Street,2024-07-11,Manager_118,230115,74,2929
+119,AHM-119,Ahmedabad,West,Outlet,2022-02-16,Manager_119,240517,31,8335
+120,BEN-120,Bengaluru,South,Neighborhood,2022-04-18,Manager_120,320000,80,9121
